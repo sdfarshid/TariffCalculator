@@ -1,0 +1,14 @@
+<?php
+namespace app\config;
+
+return [
+
+    "mockData" =>json_encode( [
+                ["name" => "Product A", "type" => 1, "baseCost" => 5, "additionalKwhCost" => 22],
+                ["name" => "Product B", "type" => 2, "includedKwh" => 4000, "baseCost" => 800, "additionalKwhCost" => 30],
+            ]),
+
+];
+
+
+
