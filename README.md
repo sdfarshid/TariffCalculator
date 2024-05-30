@@ -12,12 +12,11 @@ The Tariff Comparison Service is designed to help users compare the annual costs
 
 Key features of this project include:
 
-Dynamic Tariff Strategy Calculation: Automatically selects and uses the correct tariff strategy based on the product type.
-Cost Comparison: Provides an easy way to compare the annual costs of different electricity products.
-Custom Mini Framework: Includes a lightweight framework for managing HTTP requests and responses, demonstrating an organized approach to handling web requests.
-Unit Tests: Comprehensive unit tests ensure the accuracy and reliability of the tariff calculations.
-This project can be used as a starting point for building more complex tariff comparison tools or as a learning resource for understanding design patterns in PHP and request management in web applications.
-
+* Dynamic Tariff Strategy Calculation: Automatically selects and uses the correct tariff strategy based on the product type.
+* **Cost Comparison**: Provides an easy way to compare the annual costs of different electricity products.
+* **Custom Mini Framework**: Includes a lightweight framework for managing HTTP requests and responses, demonstrating an organized approach to handling web requests.
+* **Unit Tests**: Comprehensive unit tests ensure the accuracy and reliability of the tariff calculations.
+* **built-in PHP server with SH file** using the shell file to start php in linux base OS with  custom port 
 ---------
 
 # Installation 
